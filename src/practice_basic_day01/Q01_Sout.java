@@ -40,8 +40,6 @@ public class Q01_Sout {
          System.out.println("I");
          System.out.println("O");
          System.out.println("N");
-
-
      }
 
 }
